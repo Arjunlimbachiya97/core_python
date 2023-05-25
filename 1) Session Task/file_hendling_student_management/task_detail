@@ -1,0 +1,39 @@
+User Will Input Data For SignUp Class Constructor
+
+SignUP Class
+Constructor :
+i.First Name
+ii.Last Name
+iii.User Name
+iv.Password
+
+Password Must FulFil Criteria
+1.Minimum 8 Characters.
+2.Maximum 16 Characters.
+3.At Least One LowerCase.
+4.At Least One UpperCase.
+5.Al Least One Digit.
+6.At Least One Special characters..
+Hint :- (Use Re library)
+
+Note:- If not Matched then Print Custom Message With Exeption. and Give Chance
+again till Condition not satisfied.
+
+User Will Input Data for SignIn Class Constructor.
+
+
+
+SignIn Class
+Constructor :
+i.User Name
+ii.Password
+
+Compare SignUp( UseName and Password) With (SignIn UserName and Password)
+
+Function => LoginCheck( )
+
+IF Match print Welcome message with fistname and lastname
+if Not Match print Custom Mesage With exception.
+
+
+All validations do In Main Class.

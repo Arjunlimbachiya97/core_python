@@ -1,0 +1,8 @@
+Note :- use oops concepts
+Warehouse management.
+
+1) Add products details like product id, name, total available items, added date.
+2) Show product details.
+3) Search products according all field's.
+4) Sort products according added date and total available items.
+5) Delete product.
